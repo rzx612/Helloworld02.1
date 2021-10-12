@@ -6,6 +6,6 @@ public class Helloword {
         this.name = name ;
     }
     public void sayHello( ){
-        ystem.out.println("He1lo " +name ) ;
+        system.out.println("He1lo " +name ) ;
     }
 }
